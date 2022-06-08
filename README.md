@@ -24,4 +24,4 @@ If you'll use this code, please add a reference to this code in whichever standa
 natalie.dvoranova@praguecollege.com
 
 # List of known bugs:
-Dates did not convert properly when plotted in LSTM Model vs Linear Regression graph.
+Values representing dates did not convert properly when plotted in LSTM Model vs Linear Regression graph.
